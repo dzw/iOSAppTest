@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HelloCordova.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F84463F9FC19A44100589E39725A94CD6F0C7F01</string>
+				<key>dateExpires</key>
+				<string>2019/8/4</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>48N794BCVT.com.jwgame.xy</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>48N794BCVT</string>
+			</dict>
+			<key>name</key>
+			<string>HelloCordova.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>48N794BCVT</string>
+				<key>name</key>
+				<string>shaowen lin</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
