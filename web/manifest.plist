@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.227/web/HelloCordova.ipa</string>
+					<string>http://192.168.0.61/web/HelloCordova.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.jwgame.xy</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HelloCordova</string>
+				<string>我的西游</string>
 			</dict>
 		</dict>
 	</array>
